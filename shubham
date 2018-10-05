@@ -1,12 +1,704 @@
-<?php
 
-echo  "prachi";
+<html lang="en">
+  <head>
+    <title>About us</title>
+   
 
-echo "mastwer bxbnxbn dklgbkxgb kbkbhm ";
-echo "12222222 ";
+    <!-- Bootstrap CSS -->
+      <meta name="viewport" content="initial-scale=1">
+<link rel="stylesheet" type="text/css" href="themes/dolphin/html/css/theme-styles.css">
+<link rel="stylesheet" type="text/css" href="themes/dolphin/html/css/bootstrap.css">
+       <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 
-echo  "prachi";
 
-echo "mastwer bxbnxbn dklgbkxgb kbkbhm ";
-echo "12222222 ";
-?>
+       <style>
+	     @charset "utf-8";
+
+/*css document*/
+
+
+*
+{
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+}
+	   .abtimg{
+		   height:160px;
+		   width:100%!important;
+		    background: url(images/steve-johnson-676943-unsplash.png)no-repeat center top;
+			background-size: cover;
+		
+	   }
+	   .main-about-us{
+		     height:auto;
+		   width:100%!important;
+		   background-color:white;
+		   
+	   }
+	   
+	   .imgholder-s{
+		   width:50%!important;
+		   padding:6%;
+		   border-radius:10px!important;
+		 
+	   }
+	   .row{
+		   margin-left:0px!important;
+		   margin-right:0px!important;
+	   }
+	   .h-s{
+		    font-size:25px;
+		   font-weight:normal!important;
+		   text-align:center;
+		   color:#22536B;
+	   }
+	   .para-abt{
+		       font-size:18px!important;
+          text-align:center;
+		  color:black;
+	   }
+	   
+	   .user-img-all{
+		   background-color:#f1f1f1;
+		   padding:0px;
+		   padding-top:1px;
+            padding-bottom:1px;
+			 padding-left:1px;
+			  padding-right:1px;
+		   }
+		   
+		   @media screen and (max-width: 320px) {
+          *{  margin: 4px; 
+             padding: 0px;
+             border: 0px;
+       }
+    }
+		 
+		.showtaniers { 
+         padding-top:15px;			
+		 height:auto;
+		   width:100%!important;
+		   background-color:white;
+		}
+		
+		.shwt-s{
+			
+			text-align:center;
+			color:#22536b;
+	}
+	.shwt-s1{
+			padding-top:8px;
+			text-align:center;
+			font-size:10px;
+			font-weight:normal;
+	}
+	.pc-d{
+	
+		 padding-top:15px;
+            padding-bottom:5px;
+			 padding-left:15px;
+			  padding-right:5px;
+	}
+	
+	
+	.img-pc-h{
+		padding-left:5px;
+		height:90px;	
+		width:90px;
+	}
+	
+	.pc-cap{
+		text-align:center;
+		font-weight:normal!important;
+		font-size: 14px!important;
+         color: black;
+	}
+	.pc-cap1{
+		
+		font-weight:normal!important;
+		font-size: 11px!important;
+         color: black;
+	}
+	
+	.com-h
+	{
+		text-align:center!important;
+		color: #22536b;
+    font-size: 17px;
+    font-weight: normal;
+	}
+	   </style> 
+       
+.emt1{
+ background-color: #ccc;
+    width: 100%;
+    height: 42px;
+			 }
+
+.cum-say-h{
+
+}
+.last-h{
+	padding:5px;
+	padding-bottom:5px;
+	padding-left:5px;
+	padding-top:15px;
+	padding-right:5px;
+}
+    </head> 
+    
+	 
+	
+
+     <body>
+	 
+	     <div class="mainwrapper-s">
+		 
+		    <div class="container-fluid">
+
+		     <div class="main-about-us">
+			    <div class="row abtimg"> 
+				<div class="col-lg-4 col-md-4  col-sm-4 col-xs-12"></div>
+					<div class="col-lg-4 col-md-4  col-sm-4 col-xs-12">
+				<h1 style="font-size:35px;color:white;padding-top:80px;">About Us</h1>
+				</div>
+			<div class="col-lg-4 col-md-4  col-sm-4 col-xs-12"></div>
+				<!-- banner -->
+				</div>
+			 <div class="row">
+			<div class="col-lg-7 col-md-7  col-sm-7 col-xs-12">
+			<h2 class="h-s">Trusted by  Artist from 53 countries and Every Trust has  a story! </h2>
+			<div class="row">
+         <div class="col-lg-2 col-md-2  col-sm-2 col-xs-3">
+		 
+		 </div>
+		          <div class="col-lg-8 col-md-8  col-sm-8 col-xs-12 ">
+		    <p class=" para-abt">We help you monetize your creative works
+			   we are showflipper,an exclusve California based online
+			   platform with a mission to promte and sell theworks of 
+			   emerging artist.authors,and jewellery designers.
+			   </p>
+		     
+		 </div>
+		 
+		          <div class="col-lg-2 col-md-2  col-sm-2 col-xs-12">
+		 
+		 </div>
+		 
+		 
+			</div>
+			
+			</div>
+            <div class="col-lg-5 col-md-5  col-sm-5 col-xs-12">
+			<div class="imgholder-s">
+          <img src="images/ari-he-317215-unsplash.jpg"  class="img-responsive img-rounded" />
+           </div>
+			
+			
+		</div>
+			 
+			 </div>
+			 
+			 
+			
+			 </div>
+		<div class="row user-img-all">
+		<div class="col-lg-12 col-md-12  col-sm-12 col-xs-12">
+		 <div class="row">
+       	<div class="col-lg-3 col-md-3  col-sm-3 col-xs-12">
+             
+		</div>
+
+          <div class="col-lg-6 col-md-6  col-sm-6 col-xs-12">
+		  <div class="row">
+		  
+		  	<div class="col-lg-1 col-md-1  col-sm-1 col-xs-12">
+              
+		</div>
+		
+			<div class="col-lg-2 col-md-2  col-sm-2 col-xs-12">
+              <img src="images/1 UDuwM3CZovb8K1lUP2HVag - Copy.png"  class="img-responsive img-circle" />
+		</div>
+		
+			<div class="col-lg-2 col-md-2  col-sm-2 col-xs-12">
+			
+                             <img src="images/Make-up-Artist-Website-T.jpeg"  class="img-responsive  img-circle" />
+	
+	</div>
+		
+			<div class="col-lg-2 col-md-2  col-sm-2 col-xs-12">
+                   <img src="images/Make-up-Artist-Website.jpeg"  class="img-responsive  img-circle" />
+		</div>
+		
+		
+			<div class="col-lg-2 col-md-2  col-sm-2 col-xs-12">
+  <img src="images/1 pMKc-Lq-JlHazBWOcyOX6g - Copy.gif"  class="img-responsive  img-circle" />
+		</div>
+	
+	<div class="col-lg-2 col-md-2  col-sm-2 col-xs-12">
+                  <img src="images/Make-up-Artist-Website-Template - Copy.jpeg"  class="img-responsive  img-circle" />
+		</div>        
+
+			<div class="col-lg-1 col-md-1  col-sm-1 col-xs-12">
+              
+		</div>
+		
+		</div>
+		
+		</div>
+
+       <div class="col-lg-3 col-md-3  col-sm-3 col-xs-12">
+             
+		</div>		
+			  	
+		</div>
+		</div>
+		</div>
+		
+		<!-- showtaniers design  -->
+		
+		<div class="showtaniers">
+		 <div class="row">
+		   <div class="col-lg-4 col-md-4  col-sm-4 col-xs-12">
+		   
+                
+	
+		</div>
+		
+		
+		<div class="col-lg-4 col-md-4  col-sm-4 col-xs-12 shwt-s">
+		   
+                <h2>MEET OUR SHOWTAINERS</h2>
+	
+		</div>
+		
+		<div class="col-lg-4 col-md-4  col-sm-4 col-xs-12">
+		   
+
+	
+		</div>
+		
+		</div>
+		
+		
+		
+		
+		
+		
+		 <div class="row">
+		   <div class="col-lg-3 col-md-3  col-sm-3 col-xs-12">
+		   
+                
+	
+		</div>
+		
+		
+		<div class="col-lg-6 col-md-6  col-sm-6 col-xs-12 shwt-s1">
+		   
+                <h5>Meet the most popular artist on showflipper! Their popularity speaks for their art!</h5>
+	
+		</div>
+		
+		<div class="col-lg-3 col-md-3  col-sm-3 col-xs-12">
+		   
+
+	
+		</div>
+		
+		</div>
+		
+		
+		
+		<div class="container">
+		<div class="row pc-d">   
+		
+		<div class="col-lg-4 col-md-4  col-sm-4 col-xs-12 ">
+		
+		<div class="row">
+  <div class="">
+    <div class="thumbnail">
+	<div class="row">
+	<div class="col-lg-3 col-md-3  col-sm-3 col-xs-12 "></div>
+	<div class="col-lg-6 col-md-6  col-sm-6 col-xs-12 ">
+	 <img src="images/buy.png"  class="img-responsive " >
+	</div>
+	<div class="col-lg-3 col-md-3  col-sm-3 col-xs-12 "></div>
+	
+     
+	  </div>
+      <div class="caption">
+	 
+	  <h4 class="com-h">Buy Fine Art Online </h4>
+	  <p class=" pc-cap">ShowFlipper is an art gallery where you can buy original artwork
+         online from various options like 
+	  fine art paintings ,books, jewellery and designs.</p>
+        
+      </div>
+    </div>
+  </div>
+  </div>
+		   
+              </div>
+	
+		
+		
+		<div class="col-lg-4 col-md-4  col-sm-4 col-xs-12 ">
+		   
+		   
+		<div class="row">
+  <div class="">
+    <div class="thumbnail">
+	<div class="row">
+	<div class="col-lg-3 col-md-3  col-sm-3 col-xs-12 "></div>
+	<div class="col-lg-6 col-md-6  col-sm-6 col-xs-12 ">
+	 <img src="images/bag.png"  class="img-responsive" >
+	</div>
+	<div class="col-lg-3 col-md-3  col-sm-3 col-xs-12 "></div>
+	
+	  </div>
+	
+      <div class="caption ">
+       <h4 class="com-h">  Shop For Interesting Gifts </h4>
+      <p class=" pc-cap">  Shop for Interesting Gifts and gift them to loved ones. Flip through thousands
+            of creations from among the art for sale to find exactly what you are looking for.</p>
+     
+	 </div>
+    </div>
+  </div>
+  </div>
+             
+		</div>
+		
+		<div class="col-lg-4 col-md-4  col-sm-4 col-xs-12 ">
+		   
+       
+		<div class="row">
+  <div class="">
+    <div class="thumbnail">
+	<div class="row">
+	<div class="col-lg-3 col-md-3  col-sm-3 col-xs-12 "></div>
+	<div class="col-lg-6 col-md-6  col-sm-6 col-xs-12 ">
+	 <img src="images/artist-icons-53413.png"  class="img-responsive" >
+	</div>
+	<div class="col-lg-3 col-md-3  col-sm-3 col-xs-12 "></div>
+	
+	  </div>
+	
+      <div class="caption">
+       <h4 class="com-h">  Connect With Artists </h4>
+      <p class=" pc-cap"> Connect with your favourite artists and interact
+	  with them regularly. Before you make
+	  your investment, you can interact with other art
+	  collectors around the world.</p>
+     
+	 </div>
+    </div>
+  </div>
+  </div>
+	
+		</div>
+		
+	
+		</div>
+		
+		
+		
+	
+	
+	
+
+<div class="row pc-d">   
+		
+		<div class="col-lg-4 col-md-4  col-sm-4 col-xs-12 ">
+		
+		<div class="row">
+  <div class="">
+    <div class="thumbnail">
+	<div class="row">
+	<div class="col-lg-3 col-md-3  col-sm-3 col-xs-12 "></div>
+	<div class="col-lg-6 col-md-6  col-sm-6 col-xs-12 ">
+	 <img src="images/sale.png"  class="img-responsive " >
+	</div>
+	<div class="col-lg-3 col-md-3  col-sm-3 col-xs-12 "></div>
+	
+     
+	  </div>
+      <div class="caption">
+	 
+	  <h4 class="com-h">Original Art For Sale </h4>
+	  <p class=" pc-cap">Reach out to potential buyers worldwide 
+	  on ShowFlipper by leveraging
+	  the power of YouTube’s 1 billion global users, in addition to the 300+
+	  social sites for maximum brand visibility.</p>
+        
+      </div>
+    </div>
+  </div>
+  </div>
+		   
+              </div>
+	
+		
+		
+		<div class="col-lg-4 col-md-4  col-sm-4 col-xs-12 ">
+		   
+		   
+		<div class="row">
+  <div class="">
+    <div class="thumbnail">
+	<div class="row">
+	<div class="col-lg-3 col-md-3  col-sm-3 col-xs-12 "></div>
+	<div class="col-lg-6 col-md-6  col-sm-6 col-xs-12 ">
+	 <img src="images/conference.png"  class="img-responsive" >
+	</div>
+	<div class="col-lg-3 col-md-3  col-sm-3 col-xs-12 "></div>
+	
+	  </div>
+	
+      <div class="caption ">
+       <h4 class="com-h">  Connect With Your Fans </h4>
+      <p class=" pc-cap"> Connect with your fans and other
+	  artists through our online 
+	  community which enables you to share, 
+	  discuss, and promote your work.</p>
+     
+	 </div>
+    </div>
+  </div>
+  </div>
+             
+		</div>
+		
+		<div class="col-lg-4 col-md-4  col-sm-4 col-xs-12 ">
+		   
+       
+		<div class="row">
+  <div class="">
+    <div class="thumbnail">
+	<div class="row">
+	<div class="col-lg-3 col-md-3  col-sm-3 col-xs-12 "></div>
+	<div class="col-lg-6 col-md-6  col-sm-6 col-xs-12 ">
+	 <img src="images/donation.png"  class="img-responsive" >
+	</div>
+	<div class="col-lg-3 col-md-3  col-sm-3 col-xs-12 "></div>
+	
+	  </div>
+	
+      <div class="caption">
+       <h4 class="com-h">  Collect What You Love </h4>
+      <p class=" pc-cap"> Collect art by browsing
+	  from amongst the art for sale 
+	  - be it books, fabric art, jewelry designs
+	  , fine art and many more.</p>
+     
+	 </div>
+    </div>
+  </div>
+  </div>
+	
+		</div>
+		
+	
+		</div>
+		
+<div class="row ">
+<div class="col-lg-12 col-md-12  col-sm-12 col-xs-12 ">
+		<div class="emt1">
+		
+		</div>
+	</div>	
+	</div>
+		
+		 
+		 </div>
+		
+		</div>
+		 <div class="container">
+		 <div class="row  cum-say-h" style="margin-top:20px;background:white;padding:20px;">
+		
+		 <div class="col-md-4 col-xs-4">
+
+		 <h2 style="font-weight:bold;font-size:18px;padding-left:0	px;">COME, SAY HELLO!<br>BEHIND THE SCENES.</h2></br>
+	<h4 style="font-weight:normal;color:#22536b;"> ShowFlipper: A Fun Place to Work</h4>
+	
+<p class="pc-cap1">We are not only a unique platform with art for sale 
+, we are also a great place to be. We are always on the lookout for great talent.</p>
+
+<p class="pc-cap1">So regardless of whether you are an artist looking for management services or to put
+ original art for sale, a journalist who wants to know more about our
+ artists or even if you are looking for a career; you can get in touch with us.</p>
+
+<p class="pc-cap1">You can contact us by writing to us at <a  style="color: #22536b;" href="wecare@showflipper.com">wecare@showflipper.com</a> or  <a  style="color: #22536b;" href=" jerry@showflipper.com.com"> jerry@showflipper.com</a>
+</p>	
+
+<p class="pc-cap1">We have a transparent approach, so we are open to suitable queries.</p>
+		
+		 </div>
+		 <div class="col-md-8 col-xs-8">
+		 <div class="row">
+		 
+		 <div class="col-md-4 col-xs-4">
+		 <div class="img1-cnt" >
+		  <img src="images/dose-media-650563-unsplash.jpg"  class="img-responsive img-rounded" >
+		  </div>
+		  <br>
+		   <div class="img2-cnt" >
+		  
+		     <img src="images/samuel-castro-71639-unsplash.jpg"  class="img-responsive img-rounded" >
+		  </div>
+		</div>
+		<div class="col-md-8 col-xs-8" >
+		  <div class="img3-cnt" >
+		  
+		     <img src="images/hack-capital-568971-unsplash.jpg"  class="img-responsive img-rounded" >
+		  </div>
+		  
+		  </div>
+		   </div>
+		   
+		  </div>
+		  
+		  
+		  </div>
+		 
+		 </div>
+		 
+		 <div class="container ">
+		 <div class="row text-center " style="padding: 21px;">
+
+
+<div class="col-lg-4 col-md-4  col-sm-4 col-xs-4 ">
+
+
+<div class="row">
+  <div class="">
+    <div class="thumbnail">
+	<div class="row">
+	<div class="col-lg-3 col-md-3  col-sm-3 col-xs-12 "></div>
+	<div class="col-lg-6 col-md-6  col-sm-6 col-xs-12 ">
+	 <img src="images/eye.svg"  class="img-responsive " >
+	</div>
+	<div class="col-lg-3 col-md-3  col-sm-3 col-xs-12 "></div>
+	
+     
+	  </div>
+      <div class="caption">
+	 
+	  <h4 class="">Vision </h4>
+	  <p class=" pc-cap">For Show-tainers, ensuring we leave no stone unturned to make your 
+	  professional journey more enjoyable and more exciting. Help you sell creations online 
+	  and add more ways for you to earn money on our online artist platform.
+For audiences, presenting the best shows from all around the world and valuing your opinions.
+ You generate content and we pay you for it.</p>
+        
+      </div>
+    </div>
+  </div>
+  </div>
+
+
+
+
+</div>
+
+<div class="col-lg-4 col-md-4  col-sm-4 col-xs-4 ">
+
+
+<div class="row">
+  <div class="">
+    <div class="thumbnail">
+	<div class="row">
+	<div class="col-lg-3 col-md-3  col-sm-3 col-xs-12 "></div>
+	<div class="col-lg-6 col-md-6  col-sm-6 col-xs-12 ">
+	 <img src="images/layers.svg"  class="img-responsive " >
+	</div>
+	<div class="col-lg-3 col-md-3  col-sm-3 col-xs-12 "></div>
+	
+     
+	  </div>
+      <div class="caption">
+	 
+	  <h4 class="">Art Collection</h4>
+	  <p class=" pc-cap">Our current collection stands at over 5000 amazing creations ranging
+	  from USD$1 to nearly USD$1.5 million.Our curators are 
+	  constantly in the process of looking out for more collections 
+	  and new and existing artists.</p>
+        
+      </div>
+    </div>
+  </div>
+  </div>
+
+
+</div>
+
+<div class="col-lg-4 col-md-4  col-sm-4 col-xs-4 ">
+
+
+
+
+<div class="row">
+  <div class="">
+    <div class="thumbnail">
+	<div class="row">
+	<div class="col-lg-3 col-md-3  col-sm-3 col-xs-12 "></div>
+	<div class="col-lg-6 col-md-6  col-sm-6 col-xs-12 ">
+	 <img src="images/deal.svg"  class="img-responsive " >
+	</div>
+	<div class="col-lg-3 col-md-3  col-sm-3 col-xs-12 "></div>
+	
+     
+	  </div>
+      <div class="caption">
+	 
+	  <h4 class="">Collaboration</h4>
+	  <p class=" pc-cap">We have collaborated with organizations, NGOs,
+	  exhibition companies, influencers, 
+	  and collectors. This helps us in gaining more exposure
+	  and knowledge about your industry. We liken ourselves 
+	  to your personal concierge service at times and help you find answers to your queries.</p>
+        
+      </div>
+    </div>
+  </div>
+  </div>
+
+
+
+
+</div>
+
+	
+	</div>
+		 </div>
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 </div>
+			
+		</div> 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+	
+	 
+	 
+	 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+      <!-- Include all compiled plugins (below), or include individual files as needed -->
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	  
+	 </body>
+	 </html>
